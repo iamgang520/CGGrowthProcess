@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CGGrowthProcess_Example' do
+  pod 'CGGrowthProcess', :path => '../'
+
+  target 'CGGrowthProcess_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

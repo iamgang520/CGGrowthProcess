@@ -1,0 +1,16 @@
+PODS:
+  - CGGrowthProcess (0.1.0)
+
+DEPENDENCIES:
+  - CGGrowthProcess (from `../`)
+
+EXTERNAL SOURCES:
+  CGGrowthProcess:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CGGrowthProcess: d90f3c49e75e05b75103762b6416fd652d93b93c
+
+PODFILE CHECKSUM: 30edcb69b1372bff7db3d9d65f89423b4145fb1e
+
+COCOAPODS: 1.1.0

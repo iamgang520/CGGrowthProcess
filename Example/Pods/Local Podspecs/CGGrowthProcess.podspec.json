@@ -1,0 +1,22 @@
+{
+  "name": "CGGrowthProcess",
+  "version": "0.1.0",
+  "summary": "A short description of CGGrowthProcess.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/CGGrowthProcess",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iamgang520": "5391519@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/CGGrowthProcess.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CGGrowthProcess/Classes/**/*"
+}
